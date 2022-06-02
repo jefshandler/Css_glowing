@@ -16,7 +16,7 @@ body {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background: linear-gradient(45deg,transparent,transparent 40%, #37b4ee);
+    background: linear-gradient(55deg,transparent,transparent 49%, #37b4ee);
     animation: animate 2s linear infinite;
 }
 @keyframes animate {
@@ -48,7 +48,7 @@ body {
     right: 0px;
     bottom: 0px;
     background: #000;
-    background: linear-gradient(45deg, transparent, transparent 40%, #c8cf62);
+    background: linear-gradient(65deg, transparent, transparent 30%, #c8cf62);
     border-radius: 50%;
     z-index: 1000;
     z-index: 1;
